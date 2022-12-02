@@ -33,10 +33,10 @@ Specifically...
 It's as easy as writing a single function!
 
 Here's what you need to do:
-1. Write a parameterless method with return type `void`.
+1. Write a parameterless function with return type `void`.
 1. Modify the contents of 3 arrays: `leds1`, `leds2`, `leds3`
     * Each array is `NUM_LEDS` long. `NUM_LEDS` is 300.
-1. Prefix your method and all helper methods with your initials (e.g. `JCF`).
+1. Prefix your function and all helper methods with your initials (e.g. `JCF`).
 1. Think of a name for your creation. Ideally something that is 16 characters or less.
 1. Test it on the rig by Jon's desk.
 1. Please! No `delay`s or crashing.
