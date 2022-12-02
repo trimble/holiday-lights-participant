@@ -57,6 +57,7 @@ There are a couple pieces of state that do change during the program. You are en
 
 The repo comes with a few samples to get you started:
 
+* `straightYesChaser`
 * `rainbow`
 * `confetti`
 * `sinelon`
