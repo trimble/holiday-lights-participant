@@ -23,6 +23,9 @@ CRGB leds2[NUM_LEDS];
 CRGB leds3[NUM_LEDS];
 
 void setup() {
+  Serial.begin(115200);
+  Serial.println("in setup");
+
   delay(3000); // 3 second delay for recovery
 
   FastLED.addLeds<LED_TYPE,LED1_PIN,COLOR_ORDER>(leds1, NUM_LEDS).setCorrection(TypicalLEDStrip);
