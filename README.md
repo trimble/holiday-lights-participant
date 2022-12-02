@@ -36,8 +36,9 @@ Here's what you need to do:
 1. Write a parameterless method with return type `void`.
 1. Modify the contents of 3 arrays: `leds1`, `leds2`, `leds3`
     * Each array is `NUM_LEDS` long. `NUM_LEDS` is 300.
+    * Each array element is a [CRGB structure](https://fastled.io/docs/3.1/struct_c_r_g_b.html)...a hex color code in the form 0xRRGGBB
 1. Prefix your method and all helper methods with your initials (e.g. `JCF`).
-1. Think of a name for your creation. Ideally something that is 16 characters or less.
+1. Think of a title for your creation. Ideally something that is 16 characters or less.
 1. Test it on the rig by Jon's desk.
 1. Please! No `delay`s or crashing.
 
