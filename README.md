@@ -1,6 +1,7 @@
 # SEP Makes Holiday Light Display Challenge
 
 This is the technical companion for the SEP Makes Holiday Light Display Challenge.
+![trees](https://user-images.githubusercontent.com/122422/205650544-b22857b0-b2d2-4dbe-b766-13eab40bb2e8.gif)
 
 # Technical Details
 
