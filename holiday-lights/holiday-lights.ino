@@ -56,6 +56,8 @@ void loop()
     gLoopCounter = 0;
     gHue = 0;
     FastLED.clear();
+    FastLED.show();
+    delay(1500);
   }
 
   gLoopCounter++;
